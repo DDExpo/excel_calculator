@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "excel-profit-calc"
+version = "0.1.0"
+description = ""
+authors = ["Danil 'DDExpo'"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9"
+et-xmlfile = "^1.1.0"
+Jinja2 = "^3.1.3"
+MarkupSafe = "^2.1.5"
+Nuitka = "^2.1.3"
+numpy = "^1.26.4"
+openpyxl = "^3.1.2"
+ordered-set = "^4.1.0"
+pandas = "^2.2.1"
+PySide6 = "^6.6.2"
+python-dateutil = "^2.9.0.post0"
+pytz = "^2024.1"
+qt-material = "^2.14"
+shiboken6 = "^6.6.2"
+six = "^1.16.0"
+tzdata = "^2024.1"
+zstandard = "^0.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+package-mode = false
+build-backend = "poetry.core.masonry.api"
