@@ -5,6 +5,9 @@
 ## Why?
 So i can calculate my wage 100x faster (not joking, like i need to spend from three to five hours to calculate my wage for a month)
 
+## Usage
+ <img src="https://github.com/DDExpo/excel_calculator/blob/main/media/Timeline-1.gif" width=75% height=75%>
+
 ## Instalation
 
 py -3.9 -m venv venv
